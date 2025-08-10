@@ -23,6 +23,6 @@ Todos los ejemplos estuvieron fáciles de correr, analizar y entender.
 
 
 
-El ejemplo más difícil fue el 5, por lo que los comandos dados por el libro no servían para compilar el archivo make 
+- El ejemplo más difícil fue el 5, por lo que los comandos dados por el libro no servían para compilar el archivo make 
 <img width="917" height="119" alt="image" src="https://github.com/user-attachments/assets/4a861b7c-519f-4dc6-ac33-b535a936abdd" />
 
