@@ -21,6 +21,8 @@ Todos los ejemplos estuvieron fáciles de correr, analizar y entender.
 - Del ejemplo 1 al 4 lo único que se tuvo que cambiar fue añadir el 'int' ya que la función principal en C no reconoce solo el 'main'
 <img width="917" height="119" alt="image" src="https://github.com/user-attachments/assets/600ccf32-f64a-4147-a49c-87fac124a3c0" />
 
+
+
 El ejemplo más difícil fue el 5, por lo que los comandos dados por el libro no servían para compilar el archivo make 
 <img width="917" height="119" alt="image" src="https://github.com/user-attachments/assets/4a861b7c-519f-4dc6-ac33-b535a936abdd" />
 
