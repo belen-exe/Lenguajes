@@ -12,4 +12,10 @@ Para solucionarlo, sería mucho mas fácil en escáner, ya que solo los ignorari
 
 ## Ejercicio
 
+**Calculadora hexadecimal y decimal**
+
+- Se agregó <code> 0[xX][a-fA-F0-9]+ </code> para que reconozca los números hexadecimales (tanto mayúsculas o minúsculas).
+- El <code>strtol(yytext, NULL, 16);</code> convierte la cadena de hexa a entero.
+
+<img width="865" height="195" alt="image" src="https://github.com/user-attachments/assets/aeef5be9-41ce-4a0e-b90b-6517b50b0a16" />
 
