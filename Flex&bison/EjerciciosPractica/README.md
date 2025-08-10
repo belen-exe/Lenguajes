@@ -28,8 +28,12 @@ Todos los ejemplos estuvieron fáciles de correr, analizar y entender.
 - El ejemplo más difícil fue el 5, por lo que los comandos dados por el libro no servían para compilar el archivo make
 <img width="917" height="119" alt="image" src="https://github.com/user-attachments/assets/4a861b7c-519f-4dc6-ac33-b535a936abdd" />
 
+---
+
 - Habian errores de los cuales Bison no leía o no se habia declarado la variable
 <img width="976" height="390" alt="image" src="https://github.com/user-attachments/assets/1715bbff-0271-4187-9f74-036e18463fdd" />
+
+---
 
 - Algo que tambíen se tuvo que corregir es que a veces no hacia lo matemáticamente esperado si no que, solo unia los números
 <img width="976" height="603" alt="image" src="https://github.com/user-attachments/assets/ff2cee9e-2426-4009-aadd-ff37e2c001bc" />
