@@ -34,7 +34,7 @@ En un pricipio se planteó | para valor absoluto, si se usa esa misma barra como
 
 **¿La versión manuscrita del escáner en el Ejemplo 1-4 reconoce exactamente los mismos tokens que la versión generada por flex?**
 
-No, el manuscrito hecho en C puede aceptar paréntesis e ignorar comentarios contrario al ejemplo 4, que no se establecieron reglas para aceptar ninguno de los dos, por lo que los tomará como un carácter misterioso. 
+No, el manuscrito hecho en C puede aceptar paréntesis e ignorar comentarios contrario al ejemplo 4, que no se establecieron reglas para aceptar ninguno de los dos, por lo que los tomará como un carácter misterioso en el caso de las letras. 
 
 <img width="763" height="485" alt="image" src="https://github.com/user-attachments/assets/f4d224f8-ca75-4cd6-83fd-a0520859f543" />
 
