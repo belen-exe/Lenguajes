@@ -34,9 +34,9 @@ En un pricipio se planteó | para valor absoluto, si se usa esa misma barra como
 
 **¿La versión manuscrita del escáner en el Ejemplo 1-4 reconoce exactamente los mismos tokens que la versión generada por flex?**
 
-No, para los operadores AND y OR y lo números hexadecimales no se establecieron reglas, por lo que el ejemplo 4 los reconoce como un caracter misterioso. En caso del OR lo reconoce como doble ABS.
+No, el manuscrito hecho en C puede aceptar paréntesis e ignorar comentarios contrario al ejemplo 4, que no se establecieron reglas para aceptar ninguno de los dos, por lo que los tomará como un carácter misterioso. 
 
-<img width="764" height="741" alt="image" src="https://github.com/user-attachments/assets/a44089b5-d325-4add-95c1-36e9e4beba41" />
+<img width="763" height="485" alt="image" src="https://github.com/user-attachments/assets/f4d224f8-ca75-4cd6-83fd-a0520859f543" />
 
 ## Ejercicio 5
 
