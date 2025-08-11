@@ -49,3 +49,34 @@ Sí, definitivamente hay lenguajes para los que Flex no es la mejor opción para
 - **HTML, JavaScript y CSS**: El escáner necesita cambiar dinámicamente de unas reglas a otras cuando esos tres lenguajes estan juntos, lo cual es posible hatsa que son demasiados cambios.
 
 Para lo que flex es excelente es para lenguajes C y derivados (Java, etc).
+
+## Ejercicio 6
+
+**Reescriba el programa de conteo de palabras en C. Ejecute algunos archivos grandes en ambas versiones. ¿Es la versión C notablemente más rápida? ¿Fue mucho más difícil de depurar?**
+
+Se reescribe el programa y se le añade tanto al flex como al archivo C <code>time.h</code> para saber su tiempo de ejecución.
+- En C
+
+<img width="496" height="118" alt="image" src="https://github.com/user-attachments/assets/7aaf0624-b745-4141-bd61-056a4825575c" />
+
+- En Flex
+
+<img width="781" height="144" alt="image" src="https://github.com/user-attachments/assets/c1745fc5-d23d-4221-b056-533d65162bac" />
+
+C es más rápido en este caso por lo que no tiene que pasar por estructuras ni tokens, C tiene menos pasos lógicos por lo que consume menos tiempo.
+- **Flex**: Lee caracteres en buffers > busca coincidencias con expresiones regulares > ejecuta la acción.
+- **C**: Lee carácter > compara > procesa.
+
+### ¿Qué pasaría si el texto fuera mucho más largo?
+
+- En C
+
+<img width="1019" height="144" alt="image" src="https://github.com/user-attachments/assets/97f4ed0e-d7dc-4caf-94cd-0af5c3972d4e" />
+
+- En Flex
+
+<img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/d037d3a7-66ba-4335-9ba5-6616ab4a1bb6" />
+
+La diferencia no es porque Flex sea lento en general, sino porque en un problema tan simple el overhead de su máquina de estados pesa más que el beneficio en procesos cortos, en textos largos Flex empieza a ganar ventaja porque lee bloques grandes en vez de carácter a carácter (<code>getchar()</code>) como lo hace  C y reduce la llamada de funciones y evita iteraciones.
+
+En conclusión, C es más rápido en procesos cortos y Flex en procesos largos.
