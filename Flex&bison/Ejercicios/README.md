@@ -42,3 +42,10 @@ No, para los operadores AND y OR y lo números hexadecimales no se establecieron
 
 **¿Puedes pensar en idiomas para los que Flex no sería una buena herramienta para escribir un escáner?**
 
+Sí, definitivamente hay lenguajes para los que Flex no es la mejor opción para escribir un escáner, ya que flex esta diseñado para lenguajes regulares (Son los lenguajes formales más simples y fáciles de entender) y cuando un lenguaje ya necesita del conexto para funcionar, flex se vuelve muy complicado.
+- **leguajes como python o haskell**: flex necesita un montón de lógica adicial para recordar las sangrías y producir tokens de estos.
+- **Leguajes como fortran**: Este lenguaje depende mucho del significado de los símbolos, se pudo ver con el ejercicio 3 que tratar hacer entender que un mismo símbolo significan dos cosas es complicado.
+- **SQL y derivados**: Las expresiones tipo '...' o la memoria infinita (Consultas dentro de otra consulta y así sucesivamente). Flex las puedes contar pero tiene un límite.
+- **HTML, JavaScript y CSS**: El escáner necesita cambiar dinámicamente de unas reglas a otras cuando esos tres lenguajes estan juntos, lo cual es posible hatsa que son demasiados cambios.
+
+Para lo que flex es excelente es para lenguajes C y derivados (Java, etc).
