@@ -31,3 +31,10 @@ En un pricipio se planteó | para valor absoluto, si se usa esa misma barra como
 <img width="845" height="282" alt="image" src="https://github.com/user-attachments/assets/bc700829-8890-43b1-97e2-64e4cb50decc" />
 
 ## Ejercicio 4
+
+**¿La versión manuscrita del escáner en el Ejemplo 1-4 reconoce exactamente los mismos tokens que la versión generada por flex?**
+
+No, para los operadores AND y OR y lo números hexadecimales no se establecieron reglas, por lo que el ejemplo 4 los reconoce como un caracter misterioso. En caso del OR lo reconoce como doble ABS.
+
+<img width="764" height="741" alt="image" src="https://github.com/user-attachments/assets/a44089b5-d325-4add-95c1-36e9e4beba41" />
+
