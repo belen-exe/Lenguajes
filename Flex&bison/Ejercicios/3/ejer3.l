@@ -17,3 +17,5 @@
 [ \t] { /* ignore whitespace */ }
 . { printf("Mystery character %c\n", *yytext); }
 %%
+
+int yywrap(void){return 1;}
