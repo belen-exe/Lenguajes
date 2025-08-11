@@ -38,3 +38,7 @@ No, para los operadores AND y OR y lo números hexadecimales no se establecieron
 
 <img width="764" height="741" alt="image" src="https://github.com/user-attachments/assets/a44089b5-d325-4add-95c1-36e9e4beba41" />
 
+## Ejercicio 5
+
+**¿Puedes pensar en idiomas para los que Flex no sería una buena herramienta para escribir un escáner?**
+
