@@ -14,6 +14,7 @@ En C:
 
 Reglas:
 S → Ab
+
 A → aAb | ε
 
 En C:
