@@ -5,7 +5,7 @@ Los programas deben aceptar terminales de cada ejercicio y las combinaciones que
 ## Gramática 1
 
 Reglas:
-S → 0S0 | 1S1 | 0 | 1 
+- S → 0S0 | 1S1 | 0 | 1 
 
 En C:
 <img width="1679" height="638" alt="image" src="https://github.com/user-attachments/assets/25f4f9be-9ec5-4541-bce2-5f29f9fb4c54" />
