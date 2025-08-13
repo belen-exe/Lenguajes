@@ -1,6 +1,6 @@
 # Gramáticas BNF
 
-Los programas deben aceptar terminales (0, 1) y las combinaciones que se puedan dar conforme a las reglas, no debe aceptar ningun otro número, letra o símbolo.
+Los programas deben aceptar terminales de cada ejercicio y las combinaciones que se puedan dar conforme a las reglas, no debe aceptar ningun otro número, letra o símbolo.
 
 ## Gramática 1
 
