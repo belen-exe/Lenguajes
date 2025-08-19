@@ -16,10 +16,12 @@ El carácter - marca el fin de la definición de estados.
 
 
 Cuenta los estados en esta función:
+
 <img width="519" height="374" alt="image" src="https://github.com/user-attachments/assets/9e277e85-0067-49b6-91a8-7741b0ba92c4" />
 
 
 Obtiene el lenguaje de entrada (los símbolos válidos, normalmente 0 y 1) con:
+
 <img width="635" height="471" alt="image" src="https://github.com/user-attachments/assets/0deb14d8-67d0-4f4f-981b-3bb8ed3d7eb3" />
 
 
@@ -33,4 +35,5 @@ Crea la tabla de transiciones en memoria, es una matriz que guarda para cada est
 
 
 Muestra la matriz por medio de un for anidado:
+
 <img width="585" height="353" alt="image" src="https://github.com/user-attachments/assets/27ddcd92-777d-4f03-81f8-55e676c3e4bc" />
