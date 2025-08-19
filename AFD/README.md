@@ -37,3 +37,29 @@ Crea la tabla de transiciones en memoria, es una matriz que guarda para cada est
 Muestra la matriz por medio de un for anidado:
 
 <img width="585" height="353" alt="image" src="https://github.com/user-attachments/assets/27ddcd92-777d-4f03-81f8-55e676c3e4bc" />
+
+
+Verifica cadenas de prueba desde un archivo Cadenas.txt, para cada cadena:
+- Busca el estado inicial.
+- Recorre la cadena símbolo por símbolo (0 o 1) siguiendo las transiciones en la tabla.
+- Si la cadena es E (cadena vacía), verifica directamente si el estado inicial es de aceptación.
+- Al final, determina si terminó en un estado de aceptación (+) y muestra si la cadena fue aceptada o rechazada.
+
+<img width="1255" height="764" alt="image" src="https://github.com/user-attachments/assets/bcc763af-e7f9-4f8f-8c6f-99137cad4900" />
+<img width="1000" height="593" alt="image" src="https://github.com/user-attachments/assets/33b49b71-f342-4260-a061-6de28d10c0ad" />
+
+
+Aqui devuelve el índice en la tabla correspondiente a un estado dado.
+
+<img width="727" height="358" alt="image" src="https://github.com/user-attachments/assets/c6ad2e8e-2312-40d9-b3d8-b0c272eaf748" />
+
+
+## Resultados
+
+En C:
+
+<img width="1715" height="685" alt="image" src="https://github.com/user-attachments/assets/5c091dad-3521-47ad-bcf0-2f8b42f3635b" />
+
+En Python:
+
+<img width="1715" height="685" alt="image" src="https://github.com/user-attachments/assets/0b4655d8-4ddb-44bd-81e9-744343c5e92c" />
