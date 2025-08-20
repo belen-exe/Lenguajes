@@ -87,6 +87,11 @@ traduce el nombre del estado ('0','1','2', o las que se inserten) al índice de 
 
 ## Resultados
 
+Teniendo en cuenta este grafo:
+
+![WhatsApp Image 2025-08-18 at 11 15 44 PM](https://github.com/user-attachments/assets/81153030-459e-4eb6-91ee-a483d9360322)
+
+
 En C:
 
 <img width="1715" height="685" alt="image" src="https://github.com/user-attachments/assets/5c091dad-3521-47ad-bcf0-2f8b42f3635b" />
