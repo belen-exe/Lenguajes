@@ -99,3 +99,18 @@ En C:
 En Python:
 
 <img width="1715" height="685" alt="image" src="https://github.com/user-attachments/assets/0b4655d8-4ddb-44bd-81e9-744343c5e92c" />
+
+<br>
+<br>
+
+Otro ejemplo:
+
+<img width="1008" height="357" alt="image" src="https://github.com/user-attachments/assets/f7a9a591-0a7e-46a4-b09c-3e652742eaa9" />
+
+En C:
+
+<img width="1254" height="546" alt="image" src="https://github.com/user-attachments/assets/1d7b81b9-bdae-4b0e-908e-f36dcfb3285f" />
+
+En python:
+
+<img width="1254" height="546" alt="image" src="https://github.com/user-attachments/assets/82207ad4-cfda-44b1-951a-600ce99a99da" />
