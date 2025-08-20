@@ -8,14 +8,18 @@ El código lee un AFD desde un archivo, construye su tabla de transiciones y eva
 
 Lee la configuración del AFD desde un archivo <code>Conf.txt</code> y las cadenas en <code>Cadenas.txt</code>
 - En <code>Conf.txt</code> Cada línea del archivo representa un estado y sus transiciones.
-- La primera columna indica si es estado inicial (>), de aceptación (+), o ninguno.
-- La segunda columna es el nombre del estado.
-- La tercera y cuarta columna indican el estado destino si se lee un 0 o un 1.
+- Cuenta los estados en el automata.
+- Imprime el alfabeto agregado en <code>Conf.txt</code> 
+- Se crea y guarda la tabla de transiciones
+- Verifica las cadenas dentro del .txt
 
 <img width="1049" height="400" alt="image" src="https://github.com/user-attachments/assets/a59dca08-59f1-4bc3-a887-b6511bac61ab" />
 El carácter - marca el fin de la definición de estados.
 
----
+
+
+
+
 
 Cuenta los estados en esta función:
 
