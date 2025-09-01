@@ -15,7 +15,7 @@ Para esta calculadora se usan 4 archivos:
 
 - Calcular: Sin(x), Cos(x), Tan(x)
 
-<img width="768" height="460" alt="image" src="https://github.com/user-attachments/assets/dde30d06-1d54-42a2-8bd3-eddf683b52d9" />
+<img width="930" height="749" alt="image" src="https://github.com/user-attachments/assets/0c981668-3f9e-4662-aa00-bf2e90935c65" />
 
 <br>
 <br>
@@ -47,7 +47,7 @@ Para esta calculadora se usan 4 archivos:
 
 - Se hacen los cambios pertinentes en el LabeledExpr
 
-<img width="850" height="609" alt="image" src="https://github.com/user-attachments/assets/94ef8811-2821-4755-8488-e070595c005c" />
+<img width="930" height="749" alt="image" src="https://github.com/user-attachments/assets/ad2e6584-24fb-417f-a8d7-ae06879b2ffc" />
 
 <br>
 <br>
@@ -55,7 +55,7 @@ Para esta calculadora se usan 4 archivos:
 
 - Se corre y prueban las operaciones
 
-<img width="971" height="898" alt="image" src="https://github.com/user-attachments/assets/5576d1b7-93b8-4d8c-b47f-e082be8e3aab" />
+<img width="1051" height="577" alt="image" src="https://github.com/user-attachments/assets/b43e932e-8761-4466-b2d3-9a6ae18983b6" />
 
 ## Calculadora en python
 
