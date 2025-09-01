@@ -77,7 +77,7 @@ Para correrlo:
 
 <br>
 <br>
-Si aparece este error se puede instalar desde apt de Ubuntu o crear un entorno virtual para python, en este caso el apt disponible no tieene una versión actualizada por lo que la mejor opción es un entorno virtual.
+Si aparece este error se puede instalar desde apt de Ubuntu o crear un entorno virtual para python, en este caso el apt disponible no tiene una versión actualizada por lo que la mejor opción es un entorno virtual.
 
 <br>
 <br>
