@@ -99,7 +99,7 @@ public class EvalVisitor extends LabeledExprBaseVisitor<Double> {
       int n = (int) raw;
 
       if (raw != n || n < 0) {
-          System.out.println("Negativo o decimal no se puede ");
+          System.out.println("Negativo o decimal no se puede, tonto ");
           return raw;
       }
 
