@@ -83,7 +83,7 @@ Si aparece este error se puede instalar desde apt de Ubuntu o crear un entorno v
 <br>
 - Comandos para el entorno virtual y generación del parser:
 
-<img width="976" height="355" alt="Captura desde 2025-09-01 10-40-48" src="https://github.com/user-attachments/assets/ef9119a0-4f5d-42de-893d-a4e2df244136" />
+![WhatsApp Image 2025-09-01 at 9 14 27 PM](https://github.com/user-attachments/assets/db2d015d-94bd-4e8e-8e39-b4d3074b3ce1)
 <img width="979" height="58" alt="image" src="https://github.com/user-attachments/assets/363bb67f-f296-4783-93b9-1b46d8a99298" />
 
 <br>
