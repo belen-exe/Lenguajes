@@ -83,13 +83,14 @@ Si aparece este error se puede instalar desde apt de Ubuntu o crear un entorno v
 <br>
 - Comandos para el entorno virtual y generación del parser:
 
-<img width="976" height="355" alt="image" src="https://github.com/user-attachments/assets/a9f5e0a0-a4eb-4dd3-8216-8d3b9c50352a" />
+<img width="976" height="355" alt="Captura desde 2025-09-01 10-40-48" src="https://github.com/user-attachments/assets/ef9119a0-4f5d-42de-893d-a4e2df244136" />
+<img width="979" height="58" alt="image" src="https://github.com/user-attachments/assets/363bb67f-f296-4783-93b9-1b46d8a99298" />
 
 <br>
 <br>
 
 - Para correr el archivo python con t.expr:
 
-<img width="976" height="410" alt="image" src="https://github.com/user-attachments/assets/8188c15f-a53c-4292-90e0-ec5bef2a648a" />
+<img width="979" height="514" alt="image" src="https://github.com/user-attachments/assets/7b624ed9-1d24-4679-9082-acbad3f435e1" />
 
 <br>
