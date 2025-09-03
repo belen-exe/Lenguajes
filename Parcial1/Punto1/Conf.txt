@@ -1,0 +1,8 @@
+>0105
+ 1121
+ 2523
++3333
+ 5555
+-
+El alfabeto de este AFD es {abc} donde abc es el mínimo que acepta junto con E (vacio)
+
