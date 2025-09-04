@@ -27,4 +27,9 @@ Grámatica implementada a python:
 
 ## Punto 3
 
+Raiz cuadrada de números reales implementada en flex y bison:
+<img width="1306" height="486" alt="image" src="https://github.com/user-attachments/assets/af52b0b2-3d13-4dfc-ae46-800f844aa188" />
+
+## Punto 4
+
 
