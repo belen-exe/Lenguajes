@@ -20,3 +20,11 @@ Pruebas:
 
 ## Punto 2
 
+Grámatica implementada a python:
+<img width="1561" height="333" alt="image" src="https://github.com/user-attachments/assets/53add39e-a49f-47bf-abea-9b6caa657a64" />
+
+<br>
+
+## Punto 3
+
+
