@@ -76,7 +76,7 @@ Conclusiones:
 - C es miles de veces más rápido que Python en este tipo de cálculo.  
 - Python alcanza su límite de recursión (más o menos 1000), lo que impide trabajar con entradas grandes como `n=5000`.
 
-<br>
+
 <img width="683" height="387" alt="image" src="https://github.com/user-attachments/assets/cb5dae57-3022-49b4-9d0a-c3570fff2b1f" />
 <br>
 
